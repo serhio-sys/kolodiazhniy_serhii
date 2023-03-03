@@ -1,6 +1,6 @@
-*/doc
-*/*.class
-*/target/
-*/*.iml
-*/.idea/*
-*/out/
+/*/doc
+/*/*.class
+/*/target/
+/*/*.iml
+/*/.idea/*
+/*/out/
