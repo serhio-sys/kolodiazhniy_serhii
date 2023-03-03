@@ -1,4 +1,5 @@
 doc
+*.class
 target/
 *.iml
 .idea/*
