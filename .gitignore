@@ -1,6 +1,7 @@
 doc
 *.class
 target/
-*.iml
+*/*.iml
 .idea/*
+*/.idea/*
 out/
