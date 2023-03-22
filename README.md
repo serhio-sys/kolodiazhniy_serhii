@@ -1,8 +1,8 @@
 <center><h1>Ключове завдання: Подсчитать количество вхождений каждой цифры в десятичном
 представлении целого числа.</h1></center>
+<center><h1>Робота: Колодяжного Сергія</h1></center>
 <center><h3>Завдання №1 (Task01)</h3></center>
 Було створено й налагоджено новий репозиторій для практичних занять
-<img src="https://github.com/serhio-sys/kolodiazhniy_serhii/blob/main/images/Task01.png"/>
 <center><h3>Завдання №2 (Task02)</h3></center>
 1. Розроблено клас, що серіалізується, для зберігання параметрів і результатів
 обчислень.
@@ -12,6 +12,7 @@
 серіалізації/десеріалізації. Використовувати докладні коментарі для автоматичної генерації
 документації засобами javadoc.
 <center><h4>Скріншот працюючої програми</h4></center>
+<img src="https://github.com/serhio-sys/kolodiazhniy_serhii/blob/main/images/Task01.png"/>
 <center><h3>Завдання №3 (Task03)</h3></center>
 1. Як основа використовувати вихідний текст проекту попередньої лабораторної роботи. Забезпечив розміщення результатів обчислень уколекції з можливістю збереження/відновлення.
 2. Використав шаблон проектування Factory Method (Virtual Constructor), розробив ієрархію, що передбачає розширення рахунок додавання
@@ -20,6 +21,9 @@
 4. Реалізував ці методи виведення результатів у текстовому виде.
 5. Розробив тареалізувати інтерфейс для "фабрикуючого" методу.
 <center><h4>Скріншот працюючої програми</h4></center>
+<img src="https://github.com/serhio-sys/kolodiazhniy_serhii/blob/main/images/Task03%20(1).png"/>
+<img src="https://github.com/serhio-sys/kolodiazhniy_serhii/blob/main/images/Task03%20(2).png"/>
+<img src="https://github.com/serhio-sys/kolodiazhniy_serhii/blob/main/images/Task03%20(3).png"/>
 <center><h3>Завдання №4 (Task04)</h3></center>
 1 .За основу використав вихідний текст проекту попередньої лабораторної роботи Використовуючи шаблон проектування Factory Method
 (Virtual Constructor), розширити ієрархію похідними класами, реалізують методи для подання результатів у вигляді текстової
@@ -29,14 +33,20 @@
 3. Забезпечив діалоговий інтерфейс із користувачем.
 4. Розробив клас для тестування основної функціональності.
 5. Використав коментарі для автоматичної генерації документації засобами javadoc.
+<img src="https://github.com/serhio-sys/kolodiazhniy_serhii/blob/main/images/Task04%20(1).png"/>
+<img src="https://github.com/serhio-sys/kolodiazhniy_serhii/blob/main/images/Task04%20(2).png"/>
 <center><h4>Скріншот працюючої програми</h4></center>
 <center><h3>Завдання №5 (Task05)</h3></center>
 1. Продемонстрував поняття "макрокоманда"
 2.  При розробці програми використовував шаблон Singletone.
 3. Забезпечив діалоговий інтерфейс із користувачем.
 4.  Розробив клас для тестування функціональності програми.
+<img src="https://github.com/serhio-sys/kolodiazhniy_serhii/blob/main/images/Task_05%20(1).png"/>
+<img src="https://github.com/serhio-sys/kolodiazhniy_serhii/blob/main/images/Task_05%20(2).png"/>
 <center><h4>Скріншот працюючої програми</h4></center>
 <center><h3>Завдання №6 (Task06)</h3></center>
 1.  Продемонстрував можливість паралельної обробки елементів колекції (пошук мінімуму, максимуму, обчислення середнього значення, відбір за критерієм, статистична обробка тощо).
 2.  Управління чергою завдань (команд) реалізувати за допомогою шаблону Worker Thread.
+<img src="https://github.com/serhio-sys/kolodiazhniy_serhii/blob/main/images/Task_06%20(1).png"/>
+<img src="https://github.com/serhio-sys/kolodiazhniy_serhii/blob/main/images/Task_06%20(2).png"/>
 <center><h4>Скріншот працюючої програми</h4></center>
